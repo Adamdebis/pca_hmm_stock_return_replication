@@ -1,0 +1,18 @@
+table,noise_percent,metric,strategy,value
+Table 1,45.0,winning_probability,Strategy 1,0.532
+Table 1,45.0,winning_probability,Strategy 2,0.49
+Table 1,30.0,winning_probability,Strategy 1,0.543
+Table 1,30.0,winning_probability,Strategy 2,0.504
+Table 1,15.0,winning_probability,Strategy 1,0.538
+Table 1,15.0,winning_probability,Strategy 2,0.511
+Table 1,5.0,winning_probability,Strategy 1,0.532
+Table 1,5.0,winning_probability,Strategy 2,0.49
+Table 2,45.0,annualized_sharpe,Strategy 1,0.688
+Table 2,45.0,annualized_sharpe,Strategy 2,0.45
+Table 2,30.0,annualized_sharpe,Strategy 1,0.581
+Table 2,30.0,annualized_sharpe,Strategy 2,0.581
+Table 2,15.0,annualized_sharpe,Strategy 1,0.703
+Table 2,15.0,annualized_sharpe,Strategy 2,1.36
+Table 2,10.0,annualized_sharpe,Strategy 1,0.877
+Table 2,10.0,annualized_sharpe,Strategy 2,0.726
+Table 2,,annualized_sharpe,Buy-and-hold,0.828

@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+title: "Independent Replication of PCA + HMM Stock-Return Forecasting"
+message: "If you use this repository, please cite the project and the original paper."
+type: software
+authors:
+  - family-names: Al Debes
+    given-names: Adam
+    orcid: ""
+version: 0.1.0
+date-released: 2026-08-23
+repository-code: https://github.com/REPLACE_WITH_USERNAME/pca-hmm-stock-return-replication
+abstract: >-
+  An auditable implementation of PCA factor extraction, Gaussian HMM
+  forecasting, and simple portfolio backtests inspired by Park (2023).
+references:
+  - type: article
+    authors:
+      - family-names: Park
+        given-names: Eugene W.
+    title: "Principal Component Analysis and Hidden Markov Model for Forecasting Stock Returns"
+    year: 2023
+    url: https://arxiv.org/abs/2307.00459

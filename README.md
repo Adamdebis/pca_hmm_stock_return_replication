@@ -100,8 +100,6 @@ tests/
 docs/
   MATH_GUIDE.md
   PAPER_AUDIT.md
-  PROJECT_DEFENCE.md
-  GITHUB_WORKFLOW.md
 results/
   paper_reported_results.csv
   replication_results.csv
